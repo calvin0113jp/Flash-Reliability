@@ -16,10 +16,14 @@ Created from Testshell automation system
   
   * 設定config
     ![config](./pic/test_item.png)
+    
   * 執行
+    
     ![start](./pic/start_menu1.jpg)
     
-  * boot time  中間會跳出DUT重開機的訊息,秒數可以客製
+  * boot time  
+    中間會跳出DUT重開機的訊息,秒數可以客製
+    
     ![boot](./pic/dut_boot_time.png)
     
     

@@ -38,7 +38,7 @@ Created from Testshell automation system
   
 * ### Troubleshooting
   在長時間的測試中,工作管理員的chrome越開越多,暫存的temp也越來越多,到後面硬碟就爆了
-  driver.close driver.quit 皆不行,網路上有神人提供方法,修改成自己需要的,每一次跑完執行一次kill_process.py
+  driver.close driver.quit 皆不行,參考網路文章,可以強制把process關掉即可解決,每一次跑完執行一次kill_process.py
   順便清理完temp檔
   
 ```
